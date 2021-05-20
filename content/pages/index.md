@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/tom nook.jpg
+    background_image: images/73341375_108694560551198_9139257803897044992_o-732x1024.jpg
     background_image_opacity: 90
     content: |
       # Bienvenue sur un site plutôt moyen !
