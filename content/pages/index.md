@@ -12,7 +12,7 @@ sections:
 
       Le tp est cool mais mon level est incroyablement inexistant 
     actions:
-      - title: See all items
+      - title: Voir mes jolies dessins
         url: /store
         arrow: true
         style: primary
