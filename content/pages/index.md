@@ -6,7 +6,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/Header.jpg
-    background_image_opacity: 10
+    background_image_opacity: 100
     content: |
       # Bienvenue sur un site plutôt moyen !
 
